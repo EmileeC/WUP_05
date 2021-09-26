@@ -71,3 +71,7 @@ The P value for the Fisher test is very small, there is a difference between the
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhaps are related for some other reason.  Watch the chapter 6 videos from the George Town videos collection.!-->
+
+In this set of data, we took the number of females who tried triumphal to help prevent aids. Some women were given the drug and some were given a placebo. 11,768 women were analyzed in this study and in conclusion we found out a few things. For one, the drug did not seem to work for the female population. Secondly, we saw that 210 women who had taken the drug actually wound up getting aids, v5 147 people who took the placebo who got aids. We can note that more people who received the drugs wound up getting aids. Our P value for the Fisher test was very small at 0.0001, which led us to reject the null hypothesis.  
+
+
